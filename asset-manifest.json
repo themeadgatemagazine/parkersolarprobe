@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oarkersolarprobe/static/css/main.c570baaf.css",
+    "main.js": "/oarkersolarprobe/static/js/main.085ff045.js",
+    "index.html": "/oarkersolarprobe/index.html",
+    "main.c570baaf.css.map": "/oarkersolarprobe/static/css/main.c570baaf.css.map",
+    "main.085ff045.js.map": "/oarkersolarprobe/static/js/main.085ff045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c570baaf.css",
+    "static/js/main.085ff045.js"
+  ]
+}
