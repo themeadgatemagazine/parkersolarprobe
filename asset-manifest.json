@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/oarkersolarprobe/static/css/main.c570baaf.css",
-    "main.js": "/oarkersolarprobe/static/js/main.49738ac7.js",
-    "index.html": "/oarkersolarprobe/index.html",
-    "main.c570baaf.css.map": "/oarkersolarprobe/static/css/main.c570baaf.css.map",
-    "main.49738ac7.js.map": "/oarkersolarprobe/static/js/main.49738ac7.js.map"
+    "main.css": "/parkersolarprobe/static/css/main.c570baaf.css",
+    "main.js": "/parkersolarprobe/static/js/main.49738ac7.js",
+    "index.html": "/parkersolarprobe/index.html",
+    "main.c570baaf.css.map": "/parkersolarprobe/static/css/main.c570baaf.css.map",
+    "main.49738ac7.js.map": "/parkersolarprobe/static/js/main.49738ac7.js.map"
   },
   "entrypoints": [
     "static/css/main.c570baaf.css",
